@@ -1,0 +1,18 @@
+abcd
+ls abcd
+crashere
+YOUNIMACRASH
+exit
+ls c*.cc
+ls c*.cc
+ls c*.cc
+
+exit
+abcdefghijklmnexit
+exit
+exit
+bcdef
+cde
+exit
+ls
+cd ..
