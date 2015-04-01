@@ -2,10 +2,6 @@
 /*
  * CS252: Shell project
  *
- * Template file.
- * You will need to add more code here to execute the command table.
- *
- * NOTE: You are responsible for fixing any bugs this code may have!
  *
  */
 
